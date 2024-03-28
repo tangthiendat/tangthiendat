@@ -12,7 +12,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/thiện-đạt-tăng-bb5703219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiện-đạt-tăng-bb5703219" height="30" width="40" /></a>
-<a href="https://fb.com/tangthiendat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tangthiendat" height="30" width="40" /></a>
+<a href="[https://fb.com/tangthiendat](https://www.facebook.com/profile.php?id=100015531667535)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tangthiendat" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Technical Stacks:</h2>
