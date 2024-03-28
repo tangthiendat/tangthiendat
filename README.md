@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Spring**
 
-- 📫 How to reach me **thiendattang@gmail.com**
+- 📫 Reach me at **thiendattang@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
