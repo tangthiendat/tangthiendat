@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tangthiendat&label=Profile%20views&color=0e75b6&style=flat" alt="tangthiendat" /> </p>
 
+<h2>About Me:</h2>
+
 - 🔭 I’m currently working on **Agrisu**
 
 - 🌱 I’m currently learning **ReactJS, Spring**
