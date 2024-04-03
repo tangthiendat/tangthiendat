@@ -25,6 +25,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" alt="ant-design" width="40" height="40"/> </a> 
+  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> <img src="https://cottonbureau.com/image?path=sellers%2Foriginals%2F101860_tanner-linsley_8BFQ.png" alt="tanstack-query" width="40" height="40"/> </a> 
   <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"> <img src="https://github.com/pmndrs/zustand/blob/main/examples/demo/public/logo512.png" alt="zustand" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
