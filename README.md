@@ -31,6 +31,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" alt="ant-design" width="40" height="40"/> </a> 
   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> <img src="https://cottonbureau.com/image?path=sellers%2Foriginals%2F101860_tanner-linsley_8BFQ.png" alt="tanstack-query" width="40" height="40"/> </a> 
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>   
   <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"> <img src="https://github.com/pmndrs/zustand/blob/main/examples/demo/public/logo512.png" alt="zustand" width="40" height="40"/> </a>   
 </p>
 <h3 align="left">Frameworks</h3>
