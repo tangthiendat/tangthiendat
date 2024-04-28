@@ -32,6 +32,7 @@
   <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" alt="ant-design" width="40" height="40"/> </a> 
   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> <img src="https://cottonbureau.com/image?path=sellers%2Foriginals%2F101860_tanner-linsley_8BFQ.png" alt="tanstack-query" width="40" height="40"/> </a> 
   <a href="https://redux-toolkit.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>     
+  <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer"> <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="redux" width="40" height="40"/> </a>     
 </p>
 <h3 align="left">Frameworks</h3>
 <p align="left">
