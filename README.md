@@ -59,6 +59,6 @@
 <details>
   <summary><b>Recent Activity</b></summary>
   <br/>
-    <a href="https://github.com/tangthiendat/"><img alt="Gift' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tangthiendat" /></a>
+    <a href="https://github.com/tangthiendat/"><img alt="Gift' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tangthiendat&theme=github-compact" /></a>
   <br/>
 </details>
